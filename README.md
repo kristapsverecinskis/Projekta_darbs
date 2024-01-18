@@ -3,6 +3,7 @@
 
 Projekta demonstrejuma video(https://youtu.be/QomoDa29_QI)
 
+
 Projekta uzdevums:
 
 Es pedēja laikā saskartos ar to, ka bieži vien aizmirstu paroles vai lietotajvardus. Lielākoties visas drošas programmas un aplikācijas kurās var droši saglabāt paroles ir maksas. Tādēļ es jau kādu laiku vēlējos izveidot programmu ar kuras palīdzību es varētu saglabāt lokāli uz sava datora paroles datubāzē, bet saskaros ar problēmu, ka jebkurš pie mana datora esot var piekļut datubazei ar parolem. Šogad kursa laika bija javeido programmas ar datu atšīfrēšanu, tādēļ radās ideja izveidot programmu ar lokālu šifra atslegu un paroles šifret izmantojot to atslēgu. Tākā man vidusskola bija saskarsme ar python un sqlite datubāzēm, es izveidoju scriptu, kas izveidos man datubāzi kura var saglabat majaslapas nosaukumu, lietotājvardu un šifretu paroli. Tālāk tika izveidots scripts kas izveido unikalu atslegu un saglaba to "parole.key" failā.
