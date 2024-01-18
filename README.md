@@ -1,5 +1,5 @@
 # Projekta_darbs
-##Programma priekš projekta darba "Lietojumprogrammatūras automatizēšanas rīki".
+**Programma priekš projekta darba "Lietojumprogrammatūras automatizēšanas rīki".**
 
 Projekta demonstrejuma video(https://youtu.be/QomoDa29_QI)
 
