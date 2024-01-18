@@ -16,9 +16,9 @@ Projekta izstrade tiek lietotas divas bibliotēkas:
 
 Programmas izmantošana:
 
-Lai sev iegūtu unikālu šifra atlsēgu palaidiet programmu, kas atrodas "atslegas_izveide" mapē ,un tiks saglabāta "parole.key" failā.
-Lai iegūtu jaunu datubāzi bez ierakstiem palaidiet programmu, kas atrodas "datubazes_izveide" mapē, un tiks izveidota datubāze ar nosaukumu "paroles.db".
-Izveidojiet jaunu mapi kur ievietojat savu šifra atslēgu un datubāzi, un ievietojat "main.py", no "Programma" mapes.
-Palaižot "main.py" jums piedavas divas izvēles. 1. jauns ieraksts, 2. paradit lietotajvardu ar paroli, ja netiks ievadīts 1 vai 2, priekš izvēles programma tiks aizvērta. Ievadot konsole skaitli 1 jums vaidzes ievadit majaslapas nosaukumu, tad lietotajvardu un paroli. ievadītie dati būs redzami datubāze tikai parole būs šifrēta. Izvēloties 2 jums prasis ievadīt mājaslapu no kuras velaties ietotajvardu ar paroli, ja datubaze nebus majslapas programma tiks aizverta, bet ja bus tad tiks paradits lietotājvards un atšifreta parole, no dotas mājaslapas.
+- Lai sev iegūtu unikālu šifra atlsēgu palaidiet programmu, kas atrodas "atslegas_izveide" mapē ,un tiks saglabāta "parole.key" failā.
+- Lai iegūtu jaunu datubāzi bez ierakstiem palaidiet programmu, kas atrodas "datubazes_izveide" mapē, un tiks izveidota datubāze ar nosaukumu "paroles.db".
+- Izveidojiet jaunu mapi kur ievietojat savu šifra atslēgu un datubāzi, un ievietojat "main.py", no "Programma" mapes.
+- Palaižot "main.py" jums piedavas divas izvēles. 1. jauns ieraksts, 2. paradit lietotajvardu ar paroli, ja netiks ievadīts 1 vai 2, priekš izvēles programma tiks aizvērta. Ievadot konsole skaitli 1 jums vaidzes ievadit majaslapas nosaukumu, tad lietotajvardu un paroli. ievadītie dati būs redzami datubāze tikai parole būs šifrēta. Izvēloties 2 jums prasis ievadīt mājaslapu no kuras velaties ietotajvardu ar paroli, ja datubaze nebus majslapas programma tiks aizverta, bet ja bus tad tiks paradits lietotājvards un atšifreta parole, no dotas mājaslapas.
 
 
