@@ -11,8 +11,8 @@ Es pedēja laikā saskartos ar to, ka bieži vien aizmirstu paroles vai lietotaj
 Prokta laika lietotas Python bibliotēkas:
 
 Projekta izstrade tiek lietotas divas bibliotēkas:
-    <sub>sqlite3 - šī bibliotēka tiek lietotā,lai izveidotu sqlite datubazi (programmas kods priekš izveides ir "datubazes_izveide" mapē) un, lai atvērtu sqlite datubāzi programmā un ievadīt datubāzē datus, kā arī, lai nolasītu nepieciešamos datus no datubāzes.</sub>
-    cryptography.fernet - ši bibliotēka tika lietota, lai izveidotu atslēgu (programmas kods priekš atslēgas izveides atrodas "atslegas_izveide" mapē), kā arī, lai šifrētu paroli izmantojot doto atslēgu un atšifrētu paroli izmantojot doto atslēgu.
+sqlite3 - šī bibliotēka tiek lietotā,lai izveidotu sqlite datubazi (programmas kods priekš izveides ir "datubazes_izveide" mapē) un, lai atvērtu sqlite datubāzi programmā un ievadīt datubāzē datus, kā arī, lai nolasītu nepieciešamos datus no datubāzes.
+cryptography.fernet - ši bibliotēka tika lietota, lai izveidotu atslēgu (programmas kods priekš atslēgas izveides atrodas "atslegas_izveide" mapē), kā arī, lai šifrētu paroli izmantojot doto atslēgu un atšifrētu paroli izmantojot doto atslēgu.
 
 Programmas izmantošana:
 
